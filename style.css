@@ -1,7 +1,7 @@
 body, html {
   margin: 0;
   font-family: arial;
-  height: 100vh;
+  height: 150vh;
   background: #000000;
 }
 
@@ -26,7 +26,7 @@ body, html {
 }
 .nav-mobile svg {
   height: 45px;
-  width: 65px;
+  width: 85px;
   padding: 9px;
 }
 .nav-mobile svg path {

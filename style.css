@@ -18,6 +18,7 @@ body, html {
   font-size: 18px;
   list-style-type: none;
   box-shadow: 0 5px 5px -5px #333;
+  position:absolute;
 }
 .nav-mobile:after {
   content: "";
@@ -276,6 +277,7 @@ body, html {
   display:block;
   margin-top: 5%;
   margin-left: 85%;
+  position:absolute;
   margin-right: 0;
   cursor: pointer;}
 
